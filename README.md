@@ -74,9 +74,8 @@ I'm a **Full Stack Developer** with a passion for building modern, responsive we
 
 ## 🌟 Let's Connect
 
-I'm actively looking for opportunities to grow and contribute to impactful projects. If you have an exciting role or collaboration opportunity, let's chat!
+I'm actively looking for opportunities to grow and contribute to impactful projects. Feel free to reach out on LinkedIn or explore my repositories!
 
-- 📧 **Email:** tahseensyed984@gmail.com
 - 💼 **LinkedIn:** [Tahseen Fathima Syed](https://www.linkedin.com/in/tahseen-fathima-syed-117a19302?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - 🐦 **Twitter:** [@YourHandle] *(optional)*
 - 🌐 **Portfolio:** [Your Portfolio URL] *(optional)*
